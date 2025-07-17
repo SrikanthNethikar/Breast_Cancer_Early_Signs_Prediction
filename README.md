@@ -1,0 +1,2 @@
+# Breast_Cancer_Early_Signs_Prediction
+This project is a machine learning-based Streamlit web application that predicts the risk of early signs of breast cancer using 40 clinical, radiological, and personal health features.  The model is built using a Random Forest Classifier with 100% test accuracy and offers clear SHAP-based explanations to improve transparency for both patients and healthcare professionals.
